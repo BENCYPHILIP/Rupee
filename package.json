@@ -1,0 +1,27 @@
+{
+  "name": "convertsigntorupee_bency",
+  "version": "1.0.1",
+  "description": "Convert sign to rupee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BENCYPHILIP/signtorupee.git"
+  },
+  "keywords": [
+    "rupees",
+    "convert",
+    "to",
+    "rupees",
+    "sign",
+    "convertion"
+  ],
+  "author": "Bency Philip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BENCYPHILIP/signtorupee/issues"
+  },
+  "homepage": "https://github.com/BENCYPHILIP/signtorupee#readme"
+}
