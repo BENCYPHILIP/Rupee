@@ -1,5 +1,5 @@
 {
-  "name": "convertsigntorupee_bency",
+  "name": "convertsigntorupee",
   "version": "1.0.2",
   "description": "Convert sign to rupee",
   "main": "index.js",
