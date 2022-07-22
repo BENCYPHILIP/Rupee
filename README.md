@@ -23,7 +23,7 @@ let rupee=3500;
 let newRupeevalue=currencyFormater(rupee)
 
 
-//output will be 
+//output will be
 
 console.log(newRupeevalue)//₹ 3,500.00
 ```
