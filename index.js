@@ -1,10 +1,10 @@
 
-function currencyFormater(num, symbol) {
+function currencyFormater(num) {
     let amount = parseFloat(num);
-    return symbol + amount.toFixed(2).replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,");
+    return '₹ ' + amount.toFixed(2).replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,");
   }
   
-//  console.log(currencyFormater(83765,'Rs.'))
+// console.log(currencyFormater(83765))
 
 module.exports = currencyFormater;
   
